@@ -91,7 +91,6 @@ I have attached below,a number of helpful links, should you wish to extrapolate 
 
 ## <span style="color:orange "> 6. How to contribute <span> 
 
-As this is an assessment for submission as part of a 
 As this project was created to fufill an assessment requirement of the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics, no contributions will be allowed, in order to comply with ATU Policy on [Plagiarism](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) and the [Student Code of Conduct](https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf).
 
 Should you find any errors or have any recommendations , please submit a pull reuqest on GITHUB. or just wish to contact that author, you can do so at maxwell6826@gmail.com. 

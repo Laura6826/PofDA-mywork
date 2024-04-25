@@ -10,12 +10,11 @@ This README file was written using the [GitHub's documentation on READMEs](https
 
   &#x26a0;&#xfe0f;<span style="color:orange "> **DISCLAIMER** <span>
 
-  Microsoft Co-Pilot was used to generate ideas of the content of the following notebook. That said, the notebook is mainly my own work, as i had to re-work the code the text in generated to meet my own needs.\
-    (*The warning icon was sourced from [Stackoverflow](https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist)*)
+  Microsoft Co-Pilot was used to generate ideas of the content of the following notebook. That said, the notebook is mainly my own work, as i had to re-work the code the text in generated to meet my own needs.(*The warning icon was sourced from [Stackoverflow](https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist)*)
 
 ## <span style="color:orange ">**Table of contents** <span>
 
-  1. [Introduction](#introduction)
+  1. [Introduction](#introduction).
   1. [The purpose of this project](#the-purpose-of-this-project)
   1. [How to get started](#how-to-get-started)
   1. [How to get help](#5-how-to-get-help)
@@ -40,9 +39,9 @@ The purpose of the assessment is to ensure students can demonstrate the followin
 Provide evidence in a decision-making process using a data set.
 Appreciate the limitations of graphical representations in data intensive workflows.
 
-## <span style="color:orange ">3. How to get started <span> 
+## <span style="color:orange ">3. How to get started <span>
 
-<span style="color:orange "> Necessary software <span> 
+<span style="color:orange "> Necessary software <span>
 
 In order to run the included files, you will need to ensure that you have access to the correct softwear. I would recommend downloading the following applications (ensuring sufficent space on your hard drive prior to installation):
 
@@ -54,9 +53,10 @@ If installing packages is not an option, you can use the following clickable 'ba
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-<span style="color:orange "> Recommended libraries <span> 
+<span style="color:orange "> Recommended libraries <span>
 
 For a seamless excutition, I would also recommend you have access to the below libraries prior to running the files:
+
 ```
   import pandas as pd
   import numpy as np
@@ -64,24 +64,23 @@ For a seamless excutition, I would also recommend you have access to the below l
   import seaborn as sns
 ```
 
-<span style="color:orange "> Additions to *.gitignore*<span> 
+<span style="color:orange "> Additions to *.gitignore*<span>
 
 A number of [additional files](https://github.com/github/gitignore/tree/main/Global) were added to my .gitignore prior to running the programmes:
 
-```
   1. python.gitignore
   2. macOS..gitignore
   3. VisualStudioCode.gitignore
   4. Linux.gitignore
   5. TeX.gitignore
   6. Vim.gitignore
-```
 
-## <span style="color:orange "> 5. How to get help <span> 
+
+## <span style="color:orange "> 5. How to get help <span>
 
 I have attached below,a number of helpful links, should you wish to extrapolate on any of the methods used within this project.
 
-1. [Anaconda](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) 
+1. [Anaconda](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf)
 1. [Visual Studio Code](https://code.visualstudio.com/Download)
 1. [w3schools](https://www.w3schools.com/)
 1. [Pandas](https://pandas.pydata.org/)
@@ -89,11 +88,12 @@ I have attached below,a number of helpful links, should you wish to extrapolate 
 1. [Matplotlib.py](https://matplotlib.org/)
 1. [Seaborn](https://seaborn.pydata.org/)
 
-## <span style="color:orange "> 6. How to contribute <span> 
+## <span style="color:orange "> 6. How to contribute <span>
 
 As this project was created to fufill an assessment requirement of the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics, no contributions will be allowed, in order to comply with ATU Policy on [Plagiarism](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) and the [Student Code of Conduct](https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf).
 
-Should you find any errors or have any recommendations , please submit a pull reuqest on GITHUB. or just wish to contact that author, you can do so at maxwell6826@gmail.com. 
+Should you find any errors or have any recommendations , please submit a pull reuqest on GITHUB. or just wish to contact that author, you can do so at <maxwell6826@gmail.com>.
 
 ***
+
 ### <span style="color:orange"> End

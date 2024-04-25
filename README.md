@@ -18,10 +18,12 @@ This README file was written using the [GitHub's documentation on READMEs](https
   1. [Introduction](#introduction)
   1. [The purpose of this project](#the-purpose-of-this-project)
   1. [How to get started](#how-to-get-started)
+  1. [How to get help](#5-how-to-get-help)
+  1. [How to contribute](#6-how-to-contribute)
 
 ## <span style="color:orange ">1. Introduction <span>
 
-This project is was created as a graded submission for the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics.
+This project is was created to fufill an assessment requirement of the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics.
 
 The aim of this project is to demonstrate the knowledge to both research and analyis the famous [Palmer Penguins Data Set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv), using both instruction provided in the lectures, data analysis complete by previous analyists and also based on my own research.
 
@@ -44,8 +46,8 @@ Appreciate the limitations of graphical representations in data intensive workfl
 
 In order to run the included files, you will need to ensure that you have access to the correct softwear. I would recommend downloading the following applications (ensuring sufficent space on your hard drive prior to installation):
 
-1. Anaconda (if Anaconda is too large, miniconda would also suffice).
-2. Visual Studio Code (this is a code editor).
+1. [Anaconda](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) (if Anaconda is too large, miniconda would also suffice).
+2. [Visual Studio Code](https://code.visualstudio.com/Download) (this is a code editor).
 
 If installing packages is not an option, you can use the following clickable 'badge', generated in [openincolab.com](https://openincolab.com/) to access the Juypter notebook 'penguins.ipynb', associated with the project.
 <a target="_blank" href="https://colab.research.google.com/github/Laura6826/PofDA-mywork/blob/d15060d2db8740b10fe977c72a09c26edc6bd071/penguins.ipynb">
@@ -77,4 +79,22 @@ A number of [additional files](https://github.com/github/gitignore/tree/main/Glo
 
 ## <span style="color:orange "> 5. How to get help <span> 
 
-## <span style="color:orange "> 6. Contribute <span> 
+I have attached below,a number of helpful links, should you wish to extrapolate on any of the methods used within this project.
+
+1. [Anaconda](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) 
+1. [Visual Studio Code](https://code.visualstudio.com/Download)
+1. [w3schools](https://www.w3schools.com/)
+1. [Pandas](https://pandas.pydata.org/)
+1. [Numpy](https://numpy.org/)
+1. [Matplotlib.py](https://matplotlib.org/)
+1. [Seaborn](https://seaborn.pydata.org/)
+
+## <span style="color:orange "> 6. How to contribute <span> 
+
+As this is an assessment for submission as part of a 
+As this project was created to fufill an assessment requirement of the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics, no contributions will be allowed, in order to comply with ATU Policy on [Plagiarism](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) and the [Student Code of Conduct](https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf).
+
+Should you find any errors or have any recommendations , please submit a pull reuqest on GITHUB. or just wish to contact that author, you can do so at maxwell6826@gmail.com. 
+
+***
+### <span style="color:orange"> End

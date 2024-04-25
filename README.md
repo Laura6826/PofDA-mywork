@@ -62,6 +62,7 @@ For a seamless excutition, I would also recommend you have access to the below l
   import numpy as np
   import matplotlib.pyplot as plt
   import seaborn as sns
+  import scipy
 ```
 
 <span style="color:orange "> Additions to *.gitignore*<span>

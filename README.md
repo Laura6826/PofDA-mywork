@@ -7,19 +7,33 @@
 This README file was written using the [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) as a guidance document
 ***
 
+  **DISCLAIMER**
+  Microsoft Co-Pilot was used to generate ideas of the content of the following notebook. That said, the notebook is mainly my own work, as i had to re-work the code the text in generated to meet my own needs.
+
 ## **Table of contents**
 
   1. [Introduction](#introduction)
-  1. [Use of this project](#)
+  1. [The purpose of this project](#the-purpose-of-this-project)
   1. [How to get started](#how-to-get-started)
 
 ## Introduction
 
-This project is was created as a graded submission for the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics.
+This project is was created as a graded submission for the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics. 
 
-The aim of this project is to demonstrate the knowledge to both research and analyis the famous [Palmer Penguins Data Set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv), using both instruction provided in the lectures and also based on research complete by previous analyists.
+The aim of this project is to demonstrate the knowledge to both research and analyis the famous [Palmer Penguins Data Set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv), using both instruction provided in the lectures, data analysis complete by previous analyists and also based on my own research. 
 
-## Use of this project
+## The purpose of this project
+
+As noted on the [assignment instructions](https://ianmcloughlin.github.io/2324_principles_of_data_analytics/),
+
+The purpose of the assessment is to ensure students can demonstrate the following:
+
+1. Source and investigate sets of data.
+1. Programmatically explore and visualize data.
+1. Apply basic mathematical data analysis techniques to data sets.
+1. Model real-world problems for analysis by computer.
+Provide evidence in a decision-making process using a data set.
+Appreciate the limitations of graphical representations in data intensive workflows.
 
 ## How to get started
 

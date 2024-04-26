@@ -1,5 +1,5 @@
 
-# <span style="color:orange ">My analysis of the Palmer Penguins Dataset, as an assessment for Module: Programming and Scripting, 2024, Higher Diploma in Science, Data Analytics <span>
+# <span style="color:orange ">My analysis of the Palmer Penguins Dataset, as an assessment for Module: Principles of Data Analytics, 2024, Higher Diploma in Science, Data Analytics <span>
 
 ## *Author: Laura Lyons*
 
@@ -14,15 +14,15 @@ This README file was written using the [GitHub's documentation on READMEs](https
 
 ## <span style="color:orange ">**Table of contents** <span>
 
-  1. [Introduction](#introduction).
-  1. [The purpose of this project](#the-purpose-of-this-project)
-  1. [How to get started](#how-to-get-started)
-  1. [How to get help](#5-how-to-get-help)
-  1. [How to contribute](#6-how-to-contribute)
+  1. [Introduction.](#introduction).
+  1. [The purpose of this project.](#the-purpose-of-this-project)
+  1. [How to get started.](#how-to-get-started)
+  1. [How to get help.](#5-how-to-get-help)
+  1. [How to contribute.](#6-how-to-contribute)
 
 ## <span style="color:orange ">1. Introduction <span>
 
-This project is was created to fufill an assessment requirement of the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics.
+This project is was created to fufill an assessment requirement of the Principles of Data Analytics, as part of the H.Dip in Science in Data Analytics.
 
 The aim of this project is to demonstrate the knowledge to both research and analyis the famous [Palmer Penguins Data Set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv), using both instruction provided in the lectures, data analysis complete by previous analyists and also based on my own research.
 
@@ -99,7 +99,7 @@ I have attached below,a number of helpful links, should you wish to extrapolate 
 
 ## <span style="color:orange "> 6. How to contribute <span>
 
-As this project was created to fufill an assessment requirement of the Programming and Scripting module, as part of the H.Dip in Science in Data Analytics, no contributions will be allowed, in order to comply with ATU Policy on [Plagiarism](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) and the [Student Code of Conduct](https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf).
+As this project was created to fufill an assessment requirement of the Principles of Data Analytics, as part of the H.Dip in Science in Data Analytics, no contributions will be allowed, in order to comply with ATU Policy on [Plagiarism](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf) and the [Student Code of Conduct](https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf).
 
 Should you find any errors or have any recommendations , please submit a pull reuqest on GITHUB. or just wish to contact that author, you can do so at <maxwell6826@gmail.com>.
 

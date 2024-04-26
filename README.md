@@ -26,6 +26,14 @@ This project is was created to fufill an assessment requirement of the Programmi
 
 The aim of this project is to demonstrate the knowledge to both research and analyis the famous [Palmer Penguins Data Set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv), using both instruction provided in the lectures, data analysis complete by previous analyists and also based on my own research.
 
+The core componments of this assessment is to:
+
+1. Create a GitHub repository with a README.md and a .gitignore. Add a Jupyter notebook called penguins.ipynb and add a title to it.
+1. Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the data set and the variables it contains.
+1. Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
+1. Create a bar chart of an appropriate variable in the data set. Then create a histogram of an appropriate variable in the data set.
+1. Project: Select two variables from the data set and provide an analysis of how correlated they are.
+
 ## <span style="color:orange ">2. The purpose of this project <span>
 
 As noted on the [assignment instructions](https://ianmcloughlin.github.io/2324_principles_of_data_analytics/),

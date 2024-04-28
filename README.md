@@ -18,7 +18,7 @@ This README file was written using the [GitHub's documentation on READMEs](https
 1. [The purpose of this project.](#the-purpose-of-this-project)
 1. [How to get started.](#how-to-get-started)
 1. [How to get help.](#5-how-to-get-help)
-  1. [How to contribute.](#6-how-to-contribute)
+1. [How to contribute.](#6-how-to-contribute)
 
 ## <span style="color:orange ">1. Introduction <span>
 

@@ -14,10 +14,10 @@ This README file was written using the [GitHub's documentation on READMEs](https
 
 ## <span style="color:orange ">**Table of contents** <span>
 
-  1. [Introduction.](#introduction).
-  1. [The purpose of this project.](#the-purpose-of-this-project)
-  1. [How to get started.](#how-to-get-started)
-  1. [How to get help.](#5-how-to-get-help)
+1. [Introduction.](#introduction).
+1. [The purpose of this project.](#the-purpose-of-this-project)
+1. [How to get started.](#how-to-get-started)
+1. [How to get help.](#5-how-to-get-help)
   1. [How to contribute.](#6-how-to-contribute)
 
 ## <span style="color:orange ">1. Introduction <span>
@@ -84,7 +84,6 @@ A number of [additional files](https://github.com/github/gitignore/tree/main/Glo
   5. TeX.gitignore
   6. Vim.gitignore
 
-
 ## <span style="color:orange "> 5. How to get help <span>
 
 I have attached below,a number of helpful links, should you wish to extrapolate on any of the methods used within this project.
@@ -96,6 +95,8 @@ I have attached below,a number of helpful links, should you wish to extrapolate 
 1. [Numpy](https://numpy.org/)
 1. [Matplotlib.py](https://matplotlib.org/)
 1. [Seaborn](https://seaborn.pydata.org/)
+
+Additionally, a number of links are embedded within the code, in areas that i found confussing/difficult, that should help should there be any difficulty.
 
 ## <span style="color:orange "> 6. How to contribute <span>
 
